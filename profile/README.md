@@ -1,5 +1,5 @@
 ## International Scratch Wiki
-This is the organization responsible for maintaining the custom skins and extensions used to power the [https://scratch-wiki.info](Scratch Wikis)
+This is the organization responsible for maintaining the custom skins and extensions used to power the [Scratch Wikis](https://scratch-wiki.info)
 
 ### Contribution
 We welcome contributions from anyone to our existing skins and extensions. Simply submit a pull request to any of the repositories. However, please make sure your code follows the style already used in the other files and general PHP and MediaWiki best practices.
